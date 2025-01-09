@@ -27,9 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-using-flexbox-and-javascript-6XuWZGTgP2)
-- Live Site URL: [Add live site URL here](https://tcaturani-goss.github.io/newsletter-sign-up-with-success-message-main/)
-
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-sign-up-with-success-message-using-flexbox-and-javascript-6XuWZGTgP2]
+- Live Site URL: [https://tcaturani-goss.github.io/newsletter-sign-up-with-success-message-main/]
 ### Built with
 
 - Semantic HTML5 markup
